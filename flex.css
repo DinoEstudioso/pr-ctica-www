@@ -1,0 +1,28 @@
+/*DOCUMENTO*/
+*{margin: 0px;
+padding: 0;}
+
+section.card{background-color: rgb(228, 167, 238);
+            padding: 80px 0px;}
+
+.container{background-color: rgb(252, 191, 250);
+         padding: 16px;
+        width: 90%;
+        min-height: 1px;
+        margin: auto;
+    display: flex;
+    flex-flow: row wrap;}
+
+
+
+
+.items{background-color: rgb(174, 151, 236);
+      width: 15%;
+      height: 100px;
+    text-align: center;
+
+}
+
+
+.dos{align-self: flex-start;
+                 }

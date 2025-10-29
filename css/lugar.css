@@ -1,0 +1,14 @@
+/*DOCUMENTO CSS*/
+
+header {background-color: #404328; 
+        padding: 16px 0px;}
+body { background-color: rgb(252, 246, 235); }
+
+h1 { padding: 16px 0px; 
+     color: whitesmoke; 
+     text-align: center; 
+     font-size: 4em;}
+
+h2 {text-align: center;
+    color: whitesmoke; 
+    }
